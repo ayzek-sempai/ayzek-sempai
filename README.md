@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayzek-sempai
 - 👀 I’m interested in CyberSec
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently sumtle art of not giving F
 - 📫 How to reach me azik2004.25@gmail.com
 
 <!---
