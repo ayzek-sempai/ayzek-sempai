@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ayzek-sempai
-- 👀 I’m interested in CyberSec
-- 🌱 I’m currently sumtle art of not giving F
-- 📫 How to reach me azik2004.25@gmail.com
+<p>
+    <img src="./gigachad_desk" alt="Be better!">
+</p>
+
 
 <!---
 ayzek-sempai/ayzek-sempai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
