@@ -1,5 +1,5 @@
 <p>
-    <img src="./gigachad_desk" alt="Be better!">
+    <img src="./gigachad_desk.jpg" alt="Be better!">
 </p>
 
 
